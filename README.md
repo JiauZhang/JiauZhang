@@ -1,4 +1,3 @@
-[![GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=JiauZhang)](https://github.com/JiauZhang)
 [![](https://img.shields.io/github/stars/jiauzhang)](https://github.com/JiauZhang)
 [![Sponsor](https://img.shields.io/badge/❤️-Sponsor-color=brightgreen)](./sponsor.md)
 [![知乎](https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue&color=brightgreen)](https://www.zhihu.com/people/JiauZhang)
